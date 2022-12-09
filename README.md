@@ -32,10 +32,10 @@ Now, you have downloaded the entire rerepository locally and you can access the 
 
 # Topics Covered So Far
 Basics of Dart :  
-    - Variable, comments, operators, input output statement
+    - variable, comments, operators, input output statement
 
 Dart Data Types :  
     - number, integer, string, list, map, set, queue
 
 Control Flow :
-- if else statement, loops, continue and break statement, switch case, label
+    - if else statement, loops, continue and break statement, switch case, label
