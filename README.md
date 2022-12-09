@@ -15,7 +15,7 @@
 - Currently this repo contains only few concept as it is in still development.
 - So, on regular basis the other Dart concepts will be pushed to repo.
 
-## How to clone this rerepository ?
+### How to clone this repository ?
 **Follow this steps to install the repository locally on your PC/laptop :-**  
 Step 1 :  
 Navigate to the link https://github.com/gaikwadshantanu12/DartTutorial.
