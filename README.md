@@ -38,17 +38,4 @@ Dart Data Types :
     - number, integer, string, list, map, set, queue
 
 Control Flow :
-- if else statement
-    - if else ladder
-    - nested if else 
-- different types of loops
-    - basic for loop, 
-    - for in loop, 
-    - for each loop, 
-    - while loop, 
-    - do while loop 
-- loop control statement
-    - continue
-    - break
-- switch case
-- label
+- if else statement, loops, continue and break statement, switch case, label
