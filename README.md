@@ -14,3 +14,19 @@
 - This repository contains all the basic and important concepts of dart that you will need to start development in Flutter. 
 - Currently this repo contains only few concept as it is in still development.
 - So, on regular basis the other Dart concepts will be pushed to repo.
+
+## How to clone this rerepository ?
+**Follow this steps to install the repository locally on your PC/laptop :-**  
+Step 1 :  
+Navigate to the link https://github.com/gaikwadshantanu12/DartTutorial. You will get this window -
+![logo](https://github.com/gaikwadshantanu12/DartTutorial/blob/master/Readme%20Folder/Screenshot%20(17).png)
+
+Step 2 :  
+Then click on ``Green Color`` Code button and click on ``HTTPS`` option. You will get the link below it like this - https://github.com/gaikwadshantanu12/DartTutorial.git
+![logo](https://github.com/gaikwadshantanu12/DartTutorial/blob/master/Readme%20Folder/Screenshot%20(18).png)
+
+Step 3 :   
+Open the terminal/command prompt in your laptop/PC and paste the copied link along with ``clone`` keyword like this ``clone https://github.com/gaikwadshantanu12/DartTutorial.git`` in the terminal/command prompt and hit enter. 
+
+Step 4 :  
+Now, you have downloaded the entire rerepository locally and you can access the code now and may start learning with it.
