@@ -28,3 +28,27 @@ Open the terminal/command prompt in your laptop/PC and paste the copied link alo
 
 Step 4 :  
 Now, you have downloaded the entire rerepository locally and you can access the code now and may start learning with it.
+
+
+# Topics Covered So Far
+Basics of Dart :  
+    - Variable, comments, operators, input output statement
+
+Dart Data Types :  
+    - number, integer, string, list, map, set, queue
+
+Control Flow :  
+- if else statement
+    - if else ladder
+    - nested if else 
+- different types of loops
+    - basic for loop, 
+    - for in loop, 
+    - for each loop, 
+    - while loop, 
+    - do while loop 
+- loop control statement
+    - continue
+    - break
+- switch case
+- label
