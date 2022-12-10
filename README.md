@@ -38,4 +38,7 @@ Dart Data Types :
     - number, integer, string, list, map, set, queue
 
 Control Flow :   
-    - if else statement, loops, continue and break statement, switch case, label
+    - if else statement, loops, continue and break statement, switch case, label 
+    
+Functions :
+    - basic function, function types, optional argument passing and types, lamda function and setter getter method/function
