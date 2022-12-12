@@ -41,4 +41,7 @@ Control Flow :
     - if else statement, loops, continue and break statement, switch case, label 
     
 Functions :  
-    - basic function, function types, optional argument passing and types, lamda function and setter getter method/function
+    - basic function, function types, optional argument passing and types, lamda function and setter getter method/function   
+    
+Object Oriented Programming :  
+    - basic of inheritance, constructor and its types, use of static keyword, use of super keyword , types of inheritance, super constructor, method and its types, method overloadind, method overriding
