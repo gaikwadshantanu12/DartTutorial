@@ -48,4 +48,4 @@ Functions :
     - basic function, function types, optional argument passing and types, lamda function and setter getter method/function   
     
 Object Oriented Programming :  
-    - basic of inheritance, constructor and its types, use of static keyword, use of super keyword , types of inheritance, super constructor, method and its types, method overloading, method overriding, interface and multiple inheritance
+    - basic of inheritance, constructor and its types, use of static keyword, use of super keyword , types of inheritance, super constructor, method and its types, method overloading, method overriding, interface and multiple inheritance, callable class
