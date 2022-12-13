@@ -21,16 +21,16 @@
 
 ### How to clone this repository ?
 **Follow this steps to install the repository locally on your PC/laptop :-**  
-Step 1 :  
+**Step 1 :***  
 Navigate to the link https://github.com/gaikwadshantanu12/DartTutorial.
 
-Step 2 :  
+**Step 2 :**  
 Then click on ``Green Color`` Code button and click on ``HTTPS`` option. You will get the link below it like this - https://github.com/gaikwadshantanu12/DartTutorial.git
 
-Step 3 :   
+**Step 3 :**   
 Open the terminal/command prompt in your laptop/PC and paste the copied link along with ``clone`` keyword like this ``clone https://github.com/gaikwadshantanu12/DartTutorial.git`` in the terminal/command prompt and hit enter. 
 
-Step 4 :  
+**Step 4 :**  
 Now, you have downloaded the entire rerepository locally and you can access the code now and may start learning with it.
 
 
