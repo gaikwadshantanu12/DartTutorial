@@ -51,4 +51,7 @@ Object Oriented Programming :
     - basic of inheritance, constructor and its types, use of static keyword, use of super keyword , types of inheritance, super constructor, method and its types, method overloading, method overriding, interface and multiple inheritance, callable class   
     
 Dart Utilities :    
-     - basic function and properties of DateTime class and Duration class
+     - basic function and properties of DateTime class and Duration class, async and await function  
+    
+Advance Topics :   
+    - exception handling, user defined exceptions, assert statement
