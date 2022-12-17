@@ -48,4 +48,7 @@ Functions :
     - basic function, function types, optional argument passing and types, lamda function and setter getter method/function   
     
 Object Oriented Programming :  
-    - basic of inheritance, constructor and its types, use of static keyword, use of super keyword , types of inheritance, super constructor, method and its types, method overloading, method overriding, interface and multiple inheritance, callable class
+    - basic of inheritance, constructor and its types, use of static keyword, use of super keyword , types of inheritance, super constructor, method and its types, method overloading, method overriding, interface and multiple inheritance, callable class   
+    
+Dart Utilities :    
+     - basic function and properties of DateTime class and Duration class
