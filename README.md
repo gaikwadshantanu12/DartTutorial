@@ -35,23 +35,23 @@ Now, you have downloaded the entire rerepository locally and you can access the 
 
 
 # Topics Covered So Far
-Basics of Dart :  
+**Basics of Dart :**  
     - variable, comments, operators, input output statement
 
-Dart Data Types :  
+**Dart Data Types :**  
     - number, integer, string, list, map, set, queue
 
-Control Flow :   
+**Control Flow :**   
     - if else statement, loops, continue and break statement, switch case, label 
     
-Functions :  
+**Functions :**  
     - basic function, function types, optional argument passing and types, lamda function and setter getter method/function   
     
-Object Oriented Programming :  
+**Object Oriented Programming :**  
     - basic of inheritance, constructor and its types, use of static keyword, use of super keyword , types of inheritance, super constructor, method and its types, method overloading, method overriding, interface and multiple inheritance, callable class   
     
-Dart Utilities :    
+**Dart Utilities :**    
      - basic function and properties of DateTime class and Duration class, async and await function  
     
-Advance Topics :   
+**Advance Topics :**   
     - exception handling, user defined exceptions, assert statement
